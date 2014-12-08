@@ -19,4 +19,6 @@
 | Brand New  |  The Devil and God are raging inside me. |  @gotbadger |
 | Wugazi | 13 chambers | @gotbadger |
 | Ladytron | Gravity the Seducer | @gotbadger |
+| Porter Robinson | Worlds | @antn |
+| Knife Party | Abandon Ship | @antn |
 | | |
