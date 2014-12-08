@@ -17,4 +17,6 @@
 | Artist  | Album  | Recommended by |
 |---|---|---|
 | Brand New  |  The Devil and God are raging inside me. |  @gotbadger |
-|   |   |
+| Wugazi | 13 chambers | @gotbadger |
+| Ladytron | Gravity the Seducer | @gotbadger |
+| | |
