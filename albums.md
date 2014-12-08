@@ -21,4 +21,11 @@
 | Ladytron | Gravity the Seducer | @gotbadger |
 | Porter Robinson | Worlds | @antn |
 | Knife Party | Abandon Ship | @antn |
-| | |
+| Bad Religion | Stranger Than Fiction | @willishq |
+| The Damned | Damned Damned Damned | @willishq |
+| Dead Kennedys | Fresh Fruit For Rotting Vegetables | @willishq |
+| The Descendents | Milo Goes To College | @willishq |
+| The Adolescents | The Adolescents | @willishq |
+| Polysics | Polysics or Die!!!! | @willishq |
+| Rich Kids On LSD | Rock N Roll Nightmare | @willishq |
+| | | |
