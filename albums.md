@@ -28,4 +28,9 @@
 | The Adolescents | The Adolescents | @willishq |
 | Polysics | Polysics or Die!!!! | @willishq |
 | Rich Kids On LSD | Rock N Roll Nightmare | @willishq |
-| | | |
+| The Specials | The Specials | @willishq |
+| David Bowie | Hunky Dory | @willishq |
+| David Bowie | The Rise and Fall of Ziggy Stardust and the Spiders from Mars  | @willishq |
+| David Bowie | Diamond Dogs | @willishq |
+| Stevie Wonder | Songs in the Key of Life | @willishq |
+| Minor Threat | Minor Threat | @willishq |
