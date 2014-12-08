@@ -19,4 +19,8 @@
 | Brand New  |  The Devil and God are raging inside me. |  @gotbadger |
 | Wugazi | 13 chambers | @gotbadger |
 | Ladytron | Gravity the Seducer | @gotbadger |
+| Ronald Jenkees | Days Aways | @michael-grunder |
+| Muse | Black Holes And Revelations | @michael-grunder |
+| Zircon | Getaway EP (SoundCloud) | @michael-grunder |
+| Pink Floyd | Pulse | @michael-grunder |
 | | |
