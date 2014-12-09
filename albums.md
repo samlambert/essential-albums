@@ -10,6 +10,7 @@
 |  Joy Division | Unknown Pleasures  |  @samlambert | :star::star::star::star::star:|
 |  Radiohead | OK Computer  |  @samlambert | :star::star::star::star::star:|
 |  Ra Ra Riot | The Orchard  |  @samlambert | :star::star::star::star:|
+| David Bowie | The Rise And Fall Of Ziggy Stardust And The Spiders From Mars | @charliesome | :star::star::star::star::star:|
 |   |   |   |
 
 ### Recommended
@@ -24,5 +25,4 @@
 | Fleetwood Mac | Rumours | @charliesome |
 | Pink Floyd | The Dark Side Of The Moon | @charliesome |
 | Pink Floyd | Wish You Were Here | @charliesome |
-| David Bowie | The Rise And Fall Of Ziggy Stardust And The Spiders From Mars | @charliesome |
 | | |
