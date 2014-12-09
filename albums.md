@@ -50,4 +50,8 @@ Ratings index:
 | Fleetwood Mac | Rumours | @charliesome |
 | Pink Floyd | The Dark Side Of The Moon | @charliesome |
 | Pink Floyd | Wish You Were Here | @charliesome |
+| Ronald Jenkees | Days Aways | @michael-grunder |
+| Muse | Black Holes And Revelations | @michael-grunder |
+| Zircon | Getaway EP (SoundCloud) | @michael-grunder |
+| Pink Floyd | Pulse | @michael-grunder |
 | | |
