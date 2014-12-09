@@ -21,4 +21,8 @@
 | Ladytron | Gravity the Seducer | @gotbadger |
 | Porter Robinson | Worlds | @antn |
 | Knife Party | Abandon Ship | @antn |
+| Fleetwood Mac | Rumours | @charliesome |
+| Pink Floyd | The Dark Side Of The Moon | @charliesome |
+| Pink Floyd | Wish You Were Here | @charliesome |
+| David Bowie | The Rise And Fall Of Ziggy Stardust And The Spiders From Mars | @charliesome |
 | | |
