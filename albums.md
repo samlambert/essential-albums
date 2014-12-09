@@ -1,6 +1,19 @@
 # Albums
 
 ### Heard
+
+Ratings index:
+
+| Rating | Meaning |
+|---|---|
+| :star::star::star::star::star: | Amazing |
+| :star::star::star::star: | Great |
+| :star::star::star: | Good |
+| :star::star: | OK |
+| :star: | Bad |
+| :hankey: | Terrible|
+
+
 ----------
 | Artist  | Album  | Recommended by | Rating   |
 |---|---|---|---|
@@ -10,13 +23,14 @@
 |  Joy Division | Unknown Pleasures  |  @samlambert | :star::star::star::star::star:|
 |  Radiohead | OK Computer  |  @samlambert | :star::star::star::star::star:|
 |  Ra Ra Riot | The Orchard  |  @samlambert | :star::star::star::star:|
+| David Bowie | The Rise And Fall Of Ziggy Stardust And The Spiders From Mars | @charliesome | :star::star::star::star::star:|
+| Brand New  |  The Devil and God are raging inside me. |  @gotbadger | :star::star::star: |
 |   |   |   |
 
 ### Recommended
 ----------
 | Artist  | Album  | Recommended by |
 |---|---|---|
-| Brand New  |  The Devil and God are raging inside me. |  @gotbadger |
 | Wugazi | 13 chambers | @gotbadger |
 | Ladytron | Gravity the Seducer | @gotbadger |
 | Porter Robinson | Worlds | @antn |
@@ -30,7 +44,10 @@
 | Rich Kids On LSD | Rock N Roll Nightmare | @willishq |
 | The Specials | The Specials | @willishq |
 | David Bowie | Hunky Dory | @willishq |
-| David Bowie | The Rise and Fall of Ziggy Stardust and the Spiders from Mars  | @willishq |
 | David Bowie | Diamond Dogs | @willishq |
 | Stevie Wonder | Songs in the Key of Life | @willishq |
 | Minor Threat | Minor Threat | @willishq |
+| Fleetwood Mac | Rumours | @charliesome |
+| Pink Floyd | The Dark Side Of The Moon | @charliesome |
+| Pink Floyd | Wish You Were Here | @charliesome |
+| | |
