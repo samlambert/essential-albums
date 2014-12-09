@@ -54,4 +54,5 @@ Ratings index:
 | Muse | Black Holes And Revelations | @michael-grunder |
 | Zircon | Getaway EP (SoundCloud) | @michael-grunder |
 | Pink Floyd | Pulse | @michael-grunder |
-| | |
+| Alt-J (∆) | This is All Yours | @joshhartigan |
+| Sigur Rós | Ágætis Byrjun | @joshhartigan |
