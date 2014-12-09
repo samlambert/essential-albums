@@ -3,12 +3,16 @@
 ### Heard
 
 Ratings index:
-:star::star::star::star::star: - Amazing
-:star::star::star::star:       - Great
-:star::star::star:             - Good
-:star::star:                   - OK
-:star:                         - Bad
-:hankey:                       - Terrible
+
+| Rating | Meaning |
+|---|---|
+| :star::star::star::star::star: | Amazing |
+| :star::star::star::star: | Great |
+| :star::star::star: | Good |
+| :star::star: | OK |
+| :star: | Bad |
+| :hankey: | Terrible|
+
 
 ----------
 | Artist  | Album  | Recommended by | Rating   |
