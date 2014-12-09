@@ -21,4 +21,5 @@
 | Ladytron | Gravity the Seducer | @gotbadger |
 | Porter Robinson | Worlds | @antn |
 | Knife Party | Abandon Ship | @antn |
-| | |
+| Alt-J (∆) | This is All Yours | @joshhartigan |
+| Sigur Rós | Ágætis Byrjun | @joshhartigan |
