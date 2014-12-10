@@ -18,45 +18,44 @@ Ratings index:
 | Artist  | Album  | Recommended by | Rating   |
 |---|---|---|---|
 |  Arcade Fire | Neon Bible  |  @samlambert | :star::star::star::star::star:|
+|  Brand New  |  The Devil and God are raging inside me. |  @gotbadger | :star::star::star: |
+|  David Bowie | The Rise And Fall Of Ziggy Stardust And The Spiders From Mars | @charliesome | :star::star::star::star::star:|
+|  Joy Division | Unknown Pleasures  |  @samlambert | :star::star::star::star::star:|
 |  Lauryn Hill | Miseducation  |  @samlambert | :star::star::star::star::star:|
 |  Nas | Illmatic  |  @samlambert | :star::star::star::star::star:|
-|  Joy Division | Unknown Pleasures  |  @samlambert | :star::star::star::star::star:|
-|  Radiohead | OK Computer  |  @samlambert | :star::star::star::star::star:|
 |  Ra Ra Riot | The Orchard  |  @samlambert | :star::star::star::star:|
-| David Bowie | The Rise And Fall Of Ziggy Stardust And The Spiders From Mars | @charliesome | :star::star::star::star::star:|
-| Brand New  |  The Devil and God are raging inside me. |  @gotbadger | :star::star::star: |
-|   |   |   |
+|  Radiohead | OK Computer  |  @samlambert | :star::star::star::star::star:|
 
 ### Recommended
 ----------
 | Artist  | Album  | Recommended by |
 |---|---|---|
-| Wugazi | 13 chambers | @gotbadger |
-| Ladytron | Gravity the Seducer | @gotbadger |
-| Porter Robinson | Worlds | @antn |
-| Knife Party | Abandon Ship | @antn |
+| Alt-J (∆) | This is All Yours | @joshhartigan |
 | Bad Religion | Stranger Than Fiction | @willishq |
-| The Damned | Damned Damned Damned | @willishq |
-| Dead Kennedys | Fresh Fruit For Rotting Vegetables | @willishq |
-| The Descendents | Milo Goes To College | @willishq |
-| The Adolescents | The Adolescents | @willishq |
-| Polysics | Polysics or Die!!!! | @willishq |
-| Rich Kids On LSD | Rock N Roll Nightmare | @willishq |
-| The Specials | The Specials | @willishq |
-| David Bowie | Hunky Dory | @willishq |
+| Brightly | Beginnings & Endings | @charliesome |
 | David Bowie | Diamond Dogs | @willishq |
-| Stevie Wonder | Songs in the Key of Life | @willishq |
-| Minor Threat | Minor Threat | @willishq |
+| David Bowie | Hunky Dory | @willishq |
+| Dead Kennedys | Fresh Fruit For Rotting Vegetables | @willishq |
+| Drapht | The Life Of Riley | @charliesome |
 | Fleetwood Mac | Rumours | @charliesome |
+| Gesaffelstein | Aleph | @charliesome |
+| Knife Party | Abandon Ship | @antn |
+| Ladytron | Gravity the Seducer | @gotbadger |
+| Minor Threat | Minor Threat | @willishq |
+| Muse | Black Holes And Revelations | @michael-grunder |
+| Phonat | Phonat | @charliesome |
+| Pink Floyd | Pulse | @michael-grunder |
 | Pink Floyd | The Dark Side Of The Moon | @charliesome |
 | Pink Floyd | Wish You Were Here | @charliesome |
+| Polysics | Polysics or Die!!!! | @willishq |
+| Porter Robinson | Worlds | @antn |
+| Rich Kids On LSD | Rock N Roll Nightmare | @willishq |
 | Ronald Jenkees | Days Aways | @michael-grunder |
-| Muse | Black Holes And Revelations | @michael-grunder |
-| Zircon | Getaway EP (SoundCloud) | @michael-grunder |
-| Pink Floyd | Pulse | @michael-grunder |
-| Alt-J (∆) | This is All Yours | @joshhartigan |
 | Sigur Rós | Ágætis Byrjun | @joshhartigan |
-| Drapht | The Life Of Riley | @charliesome |
-| Brightly | Beginnings & Endings | @charliesome |
-| Gesaffelstein | Aleph | @charliesome |
-| Phonat | Phonat | @charliesome |
+| Stevie Wonder | Songs in the Key of Life | @willishq |
+| The Adolescents | The Adolescents | @willishq |
+| The Damned | Damned Damned Damned | @willishq |
+| The Descendents | Milo Goes To College | @willishq |
+| The Specials | The Specials | @willishq |
+| Wugazi | 13 chambers | @gotbadger |
+| Zircon | Getaway EP (SoundCloud) | @michael-grunder |
