@@ -56,3 +56,7 @@ Ratings index:
 | Pink Floyd | Pulse | @michael-grunder |
 | Alt-J (∆) | This is All Yours | @joshhartigan |
 | Sigur Rós | Ágætis Byrjun | @joshhartigan |
+| Drapht | The Life Of Riley | @charliesome |
+| Brightly | Beginnings & Endings | @charliesome |
+| Gesaffelstein | Aleph | @charliesome |
+| Phonat | Phonat | @charliesome |
