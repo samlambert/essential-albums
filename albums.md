@@ -20,6 +20,7 @@ Ratings index:
 |  Arcade Fire | Neon Bible  |  @samlambert | :star::star::star::star::star:|
 |  Brand New  |  The Devil and God are raging inside me. |  @gotbadger | :star::star::star: |
 |  David Bowie | The Rise And Fall Of Ziggy Stardust And The Spiders From Mars | @charliesome | :star::star::star::star::star:|
+| The Get Up Kids | Something to Write Home About | @mynameiscolin | :star::star::star: |
 |  Joy Division | Unknown Pleasures  |  @samlambert | :star::star::star::star::star:|
 |  Lauryn Hill | Miseducation  |  @samlambert | :star::star::star::star::star:|
 |  Nas | Illmatic  |  @samlambert | :star::star::star::star::star:|
@@ -64,7 +65,6 @@ Ratings index:
 | The Adolescents | The Adolescents | @willishq |
 | The Damned | Damned Damned Damned | @willishq |
 | The Descendents | Milo Goes To College | @willishq |
-| The Get Up Kids | Something to Write Home About | @mynameiscolin |
 | The Specials | The Specials | @willishq |
 | Thrice | The Artist in the Ambulance | @mynameiscolin |
 | Wugazi | 13 chambers | @gotbadger |
