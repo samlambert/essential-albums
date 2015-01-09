@@ -33,16 +33,20 @@ Ratings index:
 |---|---|---|
 | Against Me | New Wave | @mynameiscolin |
 | Alt-J (∆) | This is All Yours | @joshhartigan |
+| Azealia Banks | Broke with Expensive Taste | @mostlybadfly |
 | Bad Religion | Stranger Than Fiction | @willishq |
 | Bayside | Shudder | @mynameiscolin |
+| Beach House | Bloom | @mostlybadfly |
 | Beastie Boys | To the 5 Boroughs | @mynameiscolin |
 | Bright Eyes | I'm Wide Awake, It's Morning | @mynameiscolin |
 | Brightly | Beginnings & Endings | @charliesome |
+| Caribou | Our Love| @mostlybadfly |
 | David Bowie | Diamond Dogs | @willishq |
 | David Bowie | Hunky Dory | @willishq |
 | Dead Kennedys | Fresh Fruit For Rotting Vegetables | @willishq |
 | Drapht | The Life Of Riley | @charliesome |
 | Fleetwood Mac | Rumours | @charliesome |
+| Frank Ocean | Channel Orange | @mostlybadfly |
 | Frank Turner | Sleep Is for the Week | @mynameiscolin |
 | Gesaffelstein | Aleph | @charliesome |
 | Glassjaw | Worship and Tribute | @mynameiscolin |
@@ -55,9 +59,11 @@ Ratings index:
 | Pink Floyd | The Dark Side Of The Moon | @charliesome |
 | Pink Floyd | Wish You Were Here | @charliesome |
 | Polysics | Polysics or Die!!!! | @willishq |
+| Poliça | Give You the Ghost | @mostlybadfly |
 | Porter Robinson | Worlds | @antn |
 | Rich Kids On LSD | Rock N Roll Nightmare | @willishq |
 | Ronald Jenkees | Days Aways | @michael-grunder |
+| Run the Jewels | Run the Jewels 2 | @mostlybadfly |
 | Saves The Day | Stay What You Are | @mynameiscolin |
 | Say Anything | ...Is a Real Boy | @mynameiscolin |
 | Sigur Rós | Ágætis Byrjun | @joshhartigan |
