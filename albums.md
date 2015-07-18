@@ -79,6 +79,7 @@ Ratings index:
 | The Specials | The Specials | @willishq |
 | The War on Drugs | Slave Ambient | @davesims |
 | Thrice | The Artist in the Ambulance | @mynameiscolin |
+| Uncle Tupelo | Anodyne | @davesims |
 | Velvet Underground | Loaded | @davesims |
 | World Party | Goodbye Jumbo | @davesims |
 | Wugazi | 13 chambers | @gotbadger |
