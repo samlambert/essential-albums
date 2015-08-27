@@ -73,6 +73,8 @@ Ratings index:
 | Say Anything | ...Is a Real Boy | @mynameiscolin |
 | Sigur Rós | Ágætis Byrjun | @joshhartigan |
 | Stevie Wonder | Songs in the Key of Life | @willishq |
+|Tame Impala| Currents | @ammarlokh95 |
+|Tame Impala| Lonerisms | @ammarlokh95 |
 | The Adolescents | The Adolescents | @willishq |
 | The Damned | Damned Damned Damned | @willishq |
 | The Descendents | Milo Goes To College | @willishq |
